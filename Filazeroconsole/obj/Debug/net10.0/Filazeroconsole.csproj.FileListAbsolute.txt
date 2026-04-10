@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Filazeroconsole\bin\Debug\net10.0\Filazeroconsole.exe
+C:\Users\Dell\Documents\Filazeroconsole\bin\Debug\net10.0\Filazeroconsole.deps.json
+C:\Users\Dell\Documents\Filazeroconsole\bin\Debug\net10.0\Filazeroconsole.runtimeconfig.json
+C:\Users\Dell\Documents\Filazeroconsole\bin\Debug\net10.0\Filazeroconsole.dll
+C:\Users\Dell\Documents\Filazeroconsole\bin\Debug\net10.0\Filazeroconsole.pdb
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.AssemblyInfo.cs
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.dll
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\refint\Filazeroconsole.dll
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.pdb
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\Filazeroconsole.genruntimeconfig.cache
+C:\Users\Dell\Documents\Filazeroconsole\obj\Debug\net10.0\ref\Filazeroconsole.dll
